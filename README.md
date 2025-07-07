@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Raj Sabale
 
-## 🚀 Full Stack Developer | AI Enthusiast | EduTech Innovator
+## 🚀 Full Stack Developer | Cyber Sec Enthusiast | EduTech Innovator
 
 Welcome to my GitHub! I'm passionate about building impactful, intelligent, and scalable solutions that bridge technology and education.
 
@@ -10,18 +10,17 @@ Welcome to my GitHub! I'm passionate about building impactful, intelligent, and 
 
 * 🎓 Currently working on advanced educational analytics platforms & intelligent dashboards
 * 💻 Love working with **Node.js, Django, React, Python**, and data visualization (D3.js, Power BI)
-* 🤖 Interested in AI/ML solutions for healthcare and education
+* 🤖 Interested in AI/ML solutions for education
 * 🧑‍🏫 Dedicated to creating tools that empower educators, students, and institutions
 
 ---
 
 ### 🛠️ Tech Stack
 
-* **Languages:** Python, JavaScript, TypeScript, SQL
+* **Languages:** Python, JavaScript, SQL
 * **Frameworks:** Django, Node.js, Express, React.js
-* **Databases:** MySQL, PostgreSQL, SQLite, MariaDB
+* **Databases:** MySQL, PostgreSQL, SQLite
 * **Data & Visualization:** Pandas, Power BI, D3.js
-* **Cloud & Tools:** IBM Cloud, Azure, Git, Docker
 
 ---
 
@@ -52,7 +51,7 @@ A modern job & internship portal focusing on seamless application tracking and s
 ### ✉️ Let's Connect
 
 * [LinkedIn](https://www.linkedin.com/in/raj-sabale/)
-* [Email](mailto:rajsabale302@gmail.com)
+* [Email](mailto:sabaleraj744@gmail.com)
 
 ---
 
