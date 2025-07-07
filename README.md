@@ -1,16 +1,66 @@
-<h1 align="center">👋 Hi there! I'm Raj Sabale</h1>
-<h3 align="center">🚀 Full Stack Developer | Cyber Sec Enthusiast | EduTech Innovator</h3>
+# 👋 Hi there! I'm Raj Sabale
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabale302&label=Profile%20views&color=0e75b6&style=flat" alt="sabale302" /> </p>
+## 🚀 Full Stack Developer | AI Enthusiast | EduTech Innovator
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/raj-sabale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raj-sabale" height="30" width="40" /></a>
-<a href="https://instagram.com/raj__sabale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raj__sabale" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/cyber__geek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="cyber__geek" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/cyber__geek/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/cyber__geek/" height="30" width="40" /></a>
-<a href="https://discord.gg/658342013472866304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="658342013472866304" height="30" width="40" /></a>
-</p>
+Welcome to my GitHub! I'm passionate about building impactful, intelligent, and scalable solutions that bridge technology and education.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+
+### 💡 About Me
+
+* 🎓 Currently working on advanced educational analytics platforms & intelligent dashboards
+* 💻 Love working with **Node.js, Django, React, Python**, and data visualization (D3.js, Power BI)
+* 🤖 Interested in AI/ML solutions for healthcare and education
+* 🧑‍🏫 Dedicated to creating tools that empower educators, students, and institutions
+
+---
+
+### 🛠️ Tech Stack
+
+* **Languages:** Python, JavaScript, TypeScript, SQL
+* **Frameworks:** Django, Node.js, Express, React.js
+* **Databases:** MySQL, PostgreSQL, SQLite, MariaDB
+* **Data & Visualization:** Pandas, Power BI, D3.js
+* **Cloud & Tools:** IBM Cloud, Azure, Git, Docker
+
+---
+
+### 🚩 Featured Projects
+
+#### 📊 [EduVision](https://github.com/Sabale302/EduVision)
+
+An intelligent college analytics suite providing dynamic dashboards for academic and administrative decision-making.
+
+#### 📅 [TeachPlanner](https://github.com/Sabale302/TeachPlanner)
+
+A smart lesson planning and analytics platform to help teachers plan and track their teaching effectiveness.
+
+#### 💬 [Studybud](https://github.com/Sabale302/Studybud)
+
+A social learning platform for students to collaborate, form study groups, and share resources.
+
+#### 🩺 [VisionCare AI](https://github.com/Sabale302/visioncare_ai_ibm_hackathon)
+
+AI-powered eye disease prediction system, developed during the IBM hackathon.
+
+#### 💼 [APEX](https://github.com/Sabale302/APEX)
+
+A modern job & internship portal focusing on seamless application tracking and smart recommendations.
+
+---
+
+### ✉️ Let's Connect
+
+* [LinkedIn](https://www.linkedin.com/in/raj-sabale/)
+* [Email](mailto:rajsabale302@gmail.com)
+
+---
+
+> ⚡ *"Building smarter tools today to empower smarter minds tomorrow."*
+
+---
+
+### 🖌️ Badges & Stats
+
+![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sabale302\&show_icons=true\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabale302\&layout=compact\&theme=tokyonight)
