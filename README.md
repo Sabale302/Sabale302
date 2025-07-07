@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **EduVision**
 
-- 🌱 I’m currently learning **web pentesting, data analytics and python programming.**
+- 🌱 I’m currently learning **Node.js.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
